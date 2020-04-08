@@ -1,0 +1,19 @@
+body{
+     background: url('D:/website/NGO/images/theme.jpg') no-repeat;height:700px;
+    background-size: cover;
+}
+
+.i1{
+    width:100px;
+    border-radius: 50px;
+    margin-left:80px ;
+    margin-bottom: 20px;
+}
+.form-container{
+    border: 1px solid white;
+    margin-top: 100px;
+    padding: 70px 60px;
+    -webkit-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+    box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+}

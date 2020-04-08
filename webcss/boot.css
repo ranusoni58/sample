@@ -1,0 +1,119 @@
+
+#a1{
+    text-decoration: none;
+    color: black;
+    font-size:larger;
+    font-weight: bold;
+}
+
+.carousel-caption{
+    position: absolute;
+    left:0;
+    width:500px;
+    top:200px;
+    margin-left:150px;
+}
+
+.carousel-caption h3{
+    font-size:50px;
+}
+.carousel-caption p{
+    font-size:20px;
+}
+
+#p1{
+    word-spacing: 5px;
+    font-size:23px;
+    
+}
+
+.d1{
+    background-color: rgb(194, 192, 192);
+}
+
+
+.cd1:hover{
+     -webkit-box-shadow:-1px 9px 40px -12px rgba(0,0,0,75);
+     -moz-box-shadow:-1px 9px 40px -12px rgba(0,0,0,75);
+     box-shadow:-1px 9px 40px -12px rgba(0,0,0,75);
+}
+
+.inner{
+    overflow: hidden;
+}
+.inner img{
+    transition: all 1.5s ease;
+}
+
+.inner:hover img{
+    transform: scale(1.5);
+}
+
+
+
+.i1{
+    margin-left: 150px;
+  
+}
+
+.a2:hover
+{
+    transition: 1s ;
+    animation: 1s linear infinite; 
+}
+.c1{
+    
+    height: 80px;
+   
+}
+
+.c2{
+    
+   
+    background-image: url("D:/website/NGO/images/slider-4.jpg") ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: auto;
+    opacity: .85;
+   
+}
+
+.s1:hover{
+    transition: 1s ;
+    animation: 1s linear infinite;
+  
+}
+
+.f1{
+   
+    display: inline-block;
+    text-align:center;
+}
+.p2{
+    font-size: 18px;
+   
+}
+.i2{
+    width: 400px;
+    height: 300px;
+    margin-left: 60px;
+}
+
+.p3{
+    font-size: 20px;
+}
+
+#a3{
+    text-decoration: none;
+    color: white;
+    font-size:25px;
+    font-weight: bold;
+}
+
+
+.c4{
+    width: 180px;
+}
+.e1{
+    text-decoration: underline;
+}
